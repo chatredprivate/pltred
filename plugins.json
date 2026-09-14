@@ -1,0 +1,99 @@
+[
+    {
+        "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chatredprivate/pltred",
+        "fileSize": 118481,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 16,
+        "internalName": "Cloud-Sync",
+        "description": "Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
+        "url": "https://raw.githubusercontent.com/chatredprivate/pltred/builds/Cloud-Sync.cs3",
+        "name": "Cloud-Sync"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/chatredprivate/pltred/master/icon_party.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chatredprivate/pltred",
+        "fileSize": 77525,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 8,
+        "internalName": "plt-party",
+        "description": "plt-party - Sevdiklerinizle senkronize bir \u015fekilde izlemenizi sa\u011flar.",
+        "url": "https://raw.githubusercontent.com/chatredprivate/pltred/builds/plt-party.cs3",
+        "name": "plt-party"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/chatredprivate/pltred/master/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chatredprivate/pltred",
+        "fileSize": 501943,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 56,
+        "internalName": "plt-stream",
+        "description": "plt-stream - Birden fazla siteden i\u00e7erik sa\u011flayan bir eklenti",
+        "url": "https://raw.githubusercontent.com/chatredprivate/pltred/builds/plt-stream.cs3",
+        "name": "plt-stream"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/chatredprivate/pltred/master/icon_tv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chatredprivate/pltred",
+        "fileSize": 45596,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "plt-tv",
+        "description": "plt-tv - M3U/M3U8 \u00e7alma listeleri ve canl\u0131 TV yay\u0131nlar\u0131n\u0131 oynat\u0131c\u0131 eklentisi",
+        "url": "https://raw.githubusercontent.com/chatredprivate/pltred/builds/plt-tv.cs3",
+        "name": "plt-tv"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/chatredprivate/pltred",
+        "fileSize": 97847,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "pltmustafa"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 4,
+        "internalName": "trakt-sync",
+        "description": "\u0130zlenen i\u00e7erikleri otomatik izlendi olarak i\u015faretler ve izleme listesini senkronize eder.",
+        "url": "https://raw.githubusercontent.com/chatredprivate/pltred/builds/trakt-sync.cs3",
+        "name": "trakt-sync"
+    }
+]
