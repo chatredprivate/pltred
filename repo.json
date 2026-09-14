@@ -1,9 +1,9 @@
 {
-  "name": "red-stream",
+  "name": "Red Proje Cloud",
   "description": "Bu depo, fazla kaynak eklemekten ziyade az, öz ve kaliteli kaynakları barındırmayı ve var olan kaynakları en stabil şekilde tutmayı hedefler.",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/chatredprivate/pltred/master/icon.png",
+  "iconUrl": "https://proje.me/chatgit/master/icon.png",
   "pluginLists": [
-    "https://raw.githubusercontent.com/chatredprivate/pltred/builds/plugins.json"
+    "https://proje.me/chatgit/builds/plugins.json"
   ]
 }
