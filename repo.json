@@ -2,8 +2,8 @@
   "name": "Red Proje Cloud",
   "description": "Bu depo, fazla kaynak eklemekten ziyade az, öz ve kaliteli kaynakları barındırmayı ve var olan kaynakları en stabil şekilde tutmayı hedefler.",
   "manifestVersion": 1,
-  "iconUrl": "https://proje.me/chatgit/master/icon.png",
+  "iconUrl": "https://proje.me/rawgit/master/icon.png",
   "pluginLists": [
-    "https://proje.me/chatgit/builds/plugins.json"
+    "https://proje.me/rawgit/builds/plugins.json"
   ]
 }
